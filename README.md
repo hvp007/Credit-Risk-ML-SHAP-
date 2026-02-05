@@ -23,7 +23,7 @@ The goal is to predict loan default risk using borrower-oriented features (such 
 * **Explainability**: `shap`
 
 ## 📂 Dataset
-The project utilizes a sample dataset from **LendingClub** (`lendingclub_sample_100k_raw.csv`), containing approximately 100,000 loan records with over 150 features. 
+The project utilizes a sample dataset from **LendingClub** (`dataset.csv`), containing approximately 100,000 loan records with over 150 features. 
 * **Target Variable**: Loan Status (Fully Paid vs. Charged Off)
 * **Input Features**: DTI, Annual Income, Credit History, etc.
 
