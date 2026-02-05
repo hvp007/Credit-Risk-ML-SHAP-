@@ -52,7 +52,7 @@ The project utilizes a sample dataset from **LendingClub** (`lendingclub_sample_
 * **Fairness**: The models reflect the actual distribution of financial risk across borrower groups without introducing artificial bias.
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/hvp007/credit-risk-prediction/issues).
+Contributions, issues, and feature requests are welcome!
 
 ## 📜 License
 [MIT](https://choosealicense.com/licenses/mit/)
